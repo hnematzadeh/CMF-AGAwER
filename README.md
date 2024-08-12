@@ -16,7 +16,7 @@ Classification Error Impurity (CEI) is a frequency-based filter ranking method, 
 
 6- [Distance-based Mutual Congestion (DMC)](https://arxiv.org/abs/2407.15611). Publication year: 2024 (in preprint)
 
-7- Classification Error Impurity (CEI). Publication year: Under Review
+7- [Classification Error Impurity (CEI)](https://www.sciencedirect.com/science/article/pii/S0950705124009791). Publication year: 2024
 
 ##################### Instruction #########################
 
@@ -45,4 +45,5 @@ After line 928, you will find code that calculates the average prediction accura
 
 Cite this article
 
-
+Hossein Nematzadeh, José García-Nieto, Ismael Navas-Delgado, José F. Aldana-Montes, Feature selection using a classification error impurity algorithm and an adaptive genetic algorithm improved with an external repository, Knowledge-Based Systems, Volume 301, 2024, 112345.
+https://doi.org/10.1016/j.knosys.2024.112345.
